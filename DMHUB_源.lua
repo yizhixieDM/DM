@@ -92,10 +92,10 @@ local Tab16 = Tab("EVADE")
 local Tab17 = Tab("锻造厂")
 local Tab18 = Tab("通缉")
 local Tab19 = Tab("被遗弃")
-local Tabd = Tab("催更地点")
-local Tabb = Tab("设置")
 local Tabt = Tab("OHIO俄亥俄州")
 local Tabp = Tab("门doors")
+local Tabd = Tab("催更地点")
+local Tabb = Tab("设置")
 
 local player = game.Players.LocalPlayer
 
