@@ -94,7 +94,6 @@ local Tab18 = Tab("通缉")
 local Tab19 = Tab("被遗弃"）
 local Tabd = Tab("催更地点")
 local Tabb = Tab("设置")
-
 local player = game.Players.LocalPlayer
 
 Taba:Paragraph({
