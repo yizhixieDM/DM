@@ -91,9 +91,7 @@ local Tab15 = Tab("死铁轨")
 local Tab16 = Tab("EVADE")
 local Tab17 = Tab("锻造厂")
 local Tab18 = Tab("通缉")
-local Tab19 = Tab("被遗弃")
-local Tabt = Tab("OHIO俄亥俄州")
-local Tabp = Tab("门doors")
+local Tab19 = Tab("被遗弃"）
 local Tabd = Tab("催更地点")
 local Tabb = Tab("设置")
 
@@ -181,7 +179,7 @@ Taba:Paragraph({
 })
 
 Button(Tab1, "复制QQ群[获取最新消息]", function()
-    setclipboard("472901387")
+    setclipboard("310057979")
 end)
 
 Tab1:Paragraph({
@@ -2014,20 +2012,6 @@ Button(Tab19, "DM被遗弃", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/shenmi9178/Dong-s-script/refs/heads/main/%E5%86%AC%E6%9F%90%E8%A2%AB%E9%81%97%E5%BC%83.lua"))()
 end)
 
-Button(Tabbt, "DM俄亥俄州", function()
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yizhixieDM/DM/refs/heads/main/冬某ohio.lua"))()
-end)
-
-Button(Tabbp, "DMdoors（停止更新）", function()
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yizhixieDM/DM/refs/heads/main/冬某door.lua"))()
-end)
-
-Button(Tabbp, "msdoors自动通关档案室", function()
-
-loadstring(game:HttpGet("https://msdoors-content.pages.dev/ARCHIVESTP"))()
-end)
 --============以下是设置那些的==============
 --============以下是设置那些的==============
 --============以下是设置那些的==============
@@ -2064,7 +2048,7 @@ Tabd:Paragraph({
 })
 
 Button(Tabd, "冬某私人qq号码[点我复制]", function()
-    setclipboard("3381690468")
+    setclipboard("3764776013")
 end)
 
 Button(Tabb, "离开服务器", function() 
